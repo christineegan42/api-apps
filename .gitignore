@@ -1,4 +1,4 @@
 .DS_Store
-.api_apps/.DS_Store
-.api_apps/reddit-calls/.DS_Store
-.api_apps/retrieve-tweets/.DS_Store
+api_apps/.DS_Store
+api_apps/reddit-calls/.DS_Store
+api_apps/retrieve-tweets/.DS_Store
